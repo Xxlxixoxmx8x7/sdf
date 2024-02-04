@@ -1,0 +1,29 @@
+{
+	"command": {
+		"aliases": ["mc", "Mc", "MC", "mC", "ip", "IP", "Ip", "iP"]
+	},
+	"servers": [
+		{
+			"name": "RealMc <:ra_sword_n:1050915506959437936>",
+			"ip": "141.95.72.115", 
+			"port": 19132, 
+			"mode": "Bedrock"
+		},
+		{
+			"name": "RedStonePvP <:redstone_dust:1174614488092258335>",
+			"ip": "ramc.pro", 
+			"port": 19132, 
+			"mode": "bedrock"
+		},
+{
+			"name": "RedStonePvP v2 <:redstone_dust:1174614488092258335>",
+			"ip": "play.ramc.pro", 
+			"port": 19132, 
+			"mode": "bedrock"
+		}
+	],
+	"timeBeforeUpdate": 60,
+	"timeout": 5000,
+	"token": "Tokrn here!" 
+}
+
